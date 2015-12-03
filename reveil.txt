@@ -1,0 +1,46 @@
+
+Le défi: Le réveil de la force
+Theme:
+Développement, Versionning
+Lot:
+
+Les Padawans les plus doués d’entre vous se verront récompensés par des tickets Kadeo d’une valeur de 1000€.
+
+L'agitation règne au Sénat Galactique. Des milliers d’écoles et universités ont annoncé leur intention de participer à la nuit de l’informatique.
+
+La sénatrice Amidala, ancienne reine de Naboo, revient au Sénat Galactique pour participer à un vote crucial sur la réalisation d’un défi pour aider les chevaliers CGI débordés...
+
+L’équilibre de la force est compromis par des seigneurs Sith, clamant l'apologie du code en solitaire et non documenté. Cette année vous pouvez aider les chevaliers CGI en relevant des défis nécessitant une maîtrise de la force et de la collaboration.
+
+    Formez un ordre de Padawans et collaborez dans vos développements via des gestionnaires de versions (Github, Bitbucket…). La collaboration doit transparaître dans les commits et les statistiques du/des dépôts lors de la nuit.
+
+    Montrez une parfaite maîtrise de la force et permettez d’utiliser votre site sans clics (raccourcis claviers, access keys…)
+
+    Ce ne sont pas ces droïdes que vous recherchez ! Cachez des Easter-Eggs et ajoutez des bruitages pour faire diversion et tromper les Stromtroopers.
+
+    La lutte s’intensifie, insérez un mini-jeu pour recréer le combat.
+
+ 
+
+Rétablir l’équilibre dans la force, vous devez !
+Elements attendus
+
+Pour vous aider, les chevaliers CGI vous donnent quelques consignes :
+
+    Sans collaboration, point de victoire. Le versionning un critère clé dans la maîtrise de la force.
+
+    Les autres critères (site sans clic, easter-eggs, mini-jeux, bruitages…) seront à ajouter votre convenance. Priorité sera donnée à la qualité, la technicité et l’ergonomie des critères choisis.
+
+    Des points seront attribués pour la créativité, face à Dark Vador, tout ce qui n’est pas interdit est autorisé.
+
+Mode de restitution
+
+Nous testerons vos applications dès la fin de la nuit.
+Nous attendons un rendu par email à l’adresse defiCGI.nuitdelinfo@gmail.com, ayant comme titre “Rendu Equipe .
+Cet email contiendra :
+
+    Un lien vers votre application,
+
+    Un lien pour accéder à votre versionning
+    Un document word nous indiquant précisément chaque point correspondant au défi et comment le trouver dans l’application afin que tout soit pris en compte pour la notation.
+

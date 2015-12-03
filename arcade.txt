@@ -1,0 +1,39 @@
+
+Le défi: Intégration de mini(s) jeu(x) arcade
+Theme:
+Développement
+Lot:
+
+700€ en bon d'achat Kdéos
+
+Dans le cadre de cette nuit de l’informatique édition 2015, SQLI vous propose un défi fun et rétro.
+
+Avec la technologie de votre choix, vous implémenterez un jeu type arcade sur au moins une des pages du projet de cette année.
+
+ 
+
+Les éléments relatif au jeu apparaîtront à l’écran après une action de l’utilisateur (combinaison de touche, clic sur un élément particulier, un délai, etc…). Ces éléments pourront modifier l’interface. L’utilisateur devra alors jouer (en fonction du jeu qui est apparut) et tenter de le vaincre pour reprendre le contrôle.
+
+ 
+
+Nous accordons une importance à la facilité de compréhension des règles des différents jeux qui apparaîtront.
+
+ 
+
+Il sera évidemment possible de désactiver le système afin de ne pas gêner les utilisateurs qui ne seraient pas intéressés.
+
+ 
+
+Vous êtes libres de choisir le/les jeux que vous voudrez intégrer. Ayez de l’imagination, surprenez nous ;-).
+ 
+Elements attendus
+
+Un document expliquant ce que vous avez fait!
+Mode de restitution
+Site pour uploader le dossier compressé :
+https://www.mediafire.com/
+https://www.dropbox.com
+https://mega.nz/
+Ou encore Google Drive
+ 
+et il faudra nous fournir également un micro-manuel qui nous explique comment lancer / tester le site / application.
